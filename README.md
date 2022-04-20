@@ -1,6 +1,9 @@
 # HotTiles_UE5
 Second project in Unreal Engine 5. The main idea is to create 3D platform game, where player need to compete with other enemies on disappearing tiles. Inspired by "Fall Guys"
 
+![obraz](https://user-images.githubusercontent.com/52082678/164259875-3e06ad71-167e-4d45-8f0b-673de3eaf561.png)
+
+
 # Idea
 
 The main goal of the game is to stay on the disappearing tiles as long as possible.
